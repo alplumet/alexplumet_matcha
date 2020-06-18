@@ -29,7 +29,7 @@
     "geolocation": "^0.2.0",
     "handlebars-helpers": "^0.8.4",
     "ip-location": "^1.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jsonwebtoken": "^8.5.1",
     "mysql": "^2.18.1",
     "ngx-dropzone-wrapper": "^9.0.0",
